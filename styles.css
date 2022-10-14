@@ -36,3 +36,39 @@ input {
 img {
 	max-width: 300px;
 }
+
+.colorBtn {
+	height: 25px;
+	width: 150px;
+	box-shadow: 0 0 10px black;
+}
+
+.placeBtn {
+	height: 25px;
+	width: 150px;
+	box-shadow: 0 0 10px black;
+}
+
+.ritualBtn {
+	height: 25px;
+	width: 150px;
+	box-shadow: 0 0 10px black;
+}
+
+.colorBtn:hover {
+	background-color: black;
+	color: white;
+	border: 3px solid green;
+}
+
+.placeBtn:hover {
+	background-color: black;
+	color: white;
+	border: 3px solid green;
+}
+
+.ritualBtn:hover {
+	background-color: black;
+	color: white;
+	border: 3px solid green;
+}
