@@ -16,4 +16,4 @@ function compliment (event) {
 let form = document.querySelector('#contact');
 
 form.addEventListener('submit', handleSubmit);
-form.addEventListener('mouseover', compliment)
+// form.addEventListener('mouseover', compliment)
