@@ -41,18 +41,21 @@ img {
 	height: 25px;
 	width: 150px;
 	box-shadow: 0 0 10px black;
+	background-color: yellow;
 }
 
 .placeBtn {
 	height: 25px;
 	width: 150px;
 	box-shadow: 0 0 10px black;
+	background-color: yellow;
 }
 
 .ritualBtn {
 	height: 25px;
 	width: 150px;
 	box-shadow: 0 0 10px black;
+	background-color: yellow;
 }
 
 .colorBtn:hover {
